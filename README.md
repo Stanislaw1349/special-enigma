@@ -1,1 +1,3 @@
 # special-enigma
+# Java
+# Skepticism
