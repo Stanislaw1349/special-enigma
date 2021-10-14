@@ -1,0 +1,8 @@
+git
+
+git commit -a -m "Commit description"     - добавить и закомитить отслеживаемые файлы
+
+используя touch touch newFile.txt только создает.
+использование echo echo > newFile.txt только создает.
+
+echo "# Java" >> README.md

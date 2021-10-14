@@ -1,1 +1,13 @@
-
+<person>
+  <firstName>Станислав</firstName>
+  <lastName>Акулёнок</lastName>
+  <pets>
+    <pet>черепаха</pet>
+   </pets>
+  <age>
+    <age>34 года</age>
+  </age>
+  <salary>
+  <salary>$ 3000</salary> 
+  </salary>
+</person>
